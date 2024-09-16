@@ -1,13 +1,13 @@
-Hi! :3
+`Hi! :3`
 
-I'm Redanaku667 (Cameron Moroder)
+`I'm Redanaku667 (Cameron Moroder)`
 
-I go by She/Her (🏳‍⚧)
+`I go by She/Her (🏳‍⚧)`
 
-I am AroAce (🏳‍🌈)
+`I am AroAce (🏳‍🌈)`
 
-I mainly work alone on Web Development and Godot Engine (HTML, CSS, Javascript & C#)
+`I mainly work alone on Web Development and Godot Engine (HTML, CSS, Javascript & C#)`
 
-I use Fedora Linux
+`I use Fedora Linux`
 
-That is all I have to say :D
+`That is all I have to say :D`
