@@ -1,6 +1,6 @@
 `Hi! :3`
 
-`I'm Redanaku667 (Red Moroder)`
+`I'm Redanaku667 (Red Marauder)`
 
 `I go by She/Her (🏳‍⚧)`
 
