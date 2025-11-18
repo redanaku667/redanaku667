@@ -6,7 +6,7 @@
 
 `I am AroAce (🏳‍🌈)`
 
-`I mainly work alone on Web Development and Godot Engine (HTML, CSS, Javascript & C#)`
+`I'm currently learning Python, specifically Urwid and TUI's`
 
 `I use Fedora Linux`
 
